@@ -1,8 +1,26 @@
-# Myra - AI-Powered Transaction Management
+<p align="center">
+  <img src="Static/banner1%20(2).png" height="300" alt="Myra Banner"/>
+</p>
+<p align="center">
+  <em>Empowering the blockchain, one transaction at a time.</em>
+</p>
+<p align="center">
+    <img alt="License: MIT" src="https://img.shields.io/static/v1?label=License&message=MIT&color=blue" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%3E=5.0-blue" />
+    <img alt="React" src="https://img.shields.io/badge/React-18.2.0-blue" />
+    <img alt="Vite" src="https://img.shields.io/badge/Vite-4.2.1-blue" />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-3.3.2-blue" />
+</p>
 
-![Myra Banner](Static/banner1%20(2).png)
+<p align="center">
+  <a href="https://myra-labs.com">🌐 Website</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://myra-labs.com/docs">📚 Docs</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://x.com/MyraLabs_">🐦 Twitter</a>
+</p>
 
-**Empowering the blockchain, one transaction at a time.**
+---
 
 ## Overview and Features
 
@@ -15,7 +33,7 @@
 | Developer API      | Comprehensive API for seamless integration       |
 | 24/7 Support       | Round-the-clock support for all your needs       |
 
-### Tech Stack
+## Tech Stack
 
 | Category           | Technologies                                     |
 |--------------------|--------------------------------------------------|
@@ -44,6 +62,8 @@
    npm run dev
    ```
 
+---
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
@@ -51,7 +71,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contributing
 
 We welcome contributions! Check out the `CONTRIBUTING.md` for details.
-
----
-
-Need help? Contact us at **support@myra-labs.com**.
