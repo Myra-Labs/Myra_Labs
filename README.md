@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://myra-labs.com">🌐 Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://myra-labs.com/docs">📚 Docs</a>
+  <a href="http://myra-labs.com/docs/introduction">📚 Docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://x.com/MyraLabs_">🐦 Twitter</a>
 </p>
